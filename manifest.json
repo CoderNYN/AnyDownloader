@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "EveryDownloader",
+  "version": "1.0.0",
+  "description": "Download Anything in any website, everything in one place in the share button :)",
+  "content_scripts": [
+    {
+        "matches": 
+    }
+  ]
+}   
